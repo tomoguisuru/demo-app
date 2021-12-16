@@ -1,3 +1,17 @@
+@import 'components';
+
+body,
+html {
+  background-color: black;
+  height: 100vh;
+  max-height: 100vh;
+}
+
+body {
+  color: white;
+  font-size: 14px;
+}
+
 @media screen and (max-width: 1024px) {
 }
 
